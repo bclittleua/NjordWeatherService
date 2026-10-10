@@ -1,6 +1,8 @@
 # NWS — Njord Weather Service
 
 Primarily intended as a tool for sailors and trip planning, NWS adds weather forecasting to Valheim, including predicted weather, wind direction, and wind strength for selectable biomes.
+<img width="1920" height="1080" alt="NWS_example_02" src="https://github.com/user-attachments/assets/96ca592c-4b97-4caa-b32e-1a8870494b51" />
+<img width="1920" height="1080" alt="NWS_example_01" src="https://github.com/user-attachments/assets/8ad51ff2-5e1b-4d5e-b8eb-93f07dc5cdd4" />
 
 ## Forecast outlooks
 
