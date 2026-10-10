@@ -49,5 +49,5 @@ All NWS keybindings can be changed in the BepInEx configuration file:
 
 ## MOD compatability
 
-- As far as I can tell, works fine with LongerDays, but your mileage may very.
+- As far as I can tell, works fine with [LongerDays](https://thunderstore.io/c/valheim/p/TastyChickenLegs/LongerDays/), but your mileage may very.
 - I have given up trying to have no keybind conflicts with other mods, use the bepin config and fix your own mess.
