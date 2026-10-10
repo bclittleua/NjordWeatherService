@@ -45,3 +45,9 @@ Open Valheim's map (**M**) to interact with the NWS window: drag to reposition, 
 All NWS keybindings can be changed in the BepInEx configuration file:
 
 `BepInEx/config/nws.njordweatherservice.cfg`
+
+
+## MOD compatability
+
+- As far as I can tell, works fine with LongerDays, but your mileage may very.
+- I have given up trying to have no keybind conflicts with other mods, use the bepin config and fix your own mess.
